@@ -1,5 +1,5 @@
 # Dojo Dodge
-- vs 0.1
+- vs 1.0
 - Lista de Caracteristicas:
  -Caracteristica 1
  -Caracteristica 2
